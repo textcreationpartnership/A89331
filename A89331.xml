@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The maids prophecies or Englands looking-glasse. Dedicated to both Houses of Parliament, Sir Thomas Fairfax, and the Lord Major of the city of London.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89331</idno><idno type="EEBO-CITATION">99864264</idno>
+  <idno type="VID">116489</idno>
+  <idno type="EEBO-PROQUEST">2269046579</idno>
+  
+            <idno type="STC">Wing M281</idno>
+            <idno type="STC">Thomason E422_13</idno>
+            <idno type="STC">ESTC R204802</idno>
+            <idno type="PROQUEST">99864264</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864264e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116489)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The maids prophecies or Englands looking-glasse. Dedicated to both Houses of Parliament, Sir Thomas Fairfax, and the Lord Major of the city of London.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Imperfect: staining.</note>
+                  <note>Annotation on Thomason copy: "Jan: 10th 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:116489:1"/>
+            <pb facs="tcp:116489:1"/>
+            <head>THE MAIDS PROPHECIES OR ENGLANDS <hi>LOOKING-GLASSE.</hi> Dedicated to both Houses of PARLIAMENT, Sir <hi>Thomas Fairfax,</hi> and the Lord-Major of the City of LONDON.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Cor. 14.22.</hi>
+                  </bibl>
+                  <p>Prophecying <hi>serveth</hi> not for them that beleeve not, but for them which beleeve.</p>
+               </q>
+            </epigraph>
+            <figure>
+               <figDesc>allegorical female figure</figDesc>
+            </figure>
+            <lg>
+               <l>Despise not Prophesies though by a Maid.</l>
+               <l>They are pronounst good Sir, be not afraid</l>
+               <l>Tis worth your money, buy and you shall see</l>
+               <l>Things that are past, and what must one day be</l>
+               <l>Here is a parfect metor, wondrous true</l>
+               <l>Where every one may their perfections view</l>
+               <l>Come buy this Looking-glass<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, tho twill not flatter</l>
+               <l>If you have honest faces, tis no matter.</l>
+            </lg>
+            <p>IT is the witty part of a witty Orator to begin his preface with so he pleasing discourse wherewith he may cheane the Eares of his Auditors to his Tongue with most atentive head.</p>
+            <lg>
+               <pb facs="tcp:116489:2"/>
+               <l>But I will with no Syrens voyce inchant you,</l>
+               <l>Nor shall my language be so rude to dant you.</l>
+            </lg>
+            <p>Tis not usually to see our Sex in print, but things customary, doe common passe, without regard, but this is the last age of the world, and in the latter dayes the spirit shall be poured out on all flesh:<note place="margin">I<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l 2.28. Isa 44.3. Acts 2.17.</note> old men will dreame, young men see strange visions, and Maids prophesie as for Dreames. I understand none but the Elders: nei<g ref="char:EOLhyphen"/>ther fe I any visions, but some fine painted Cassells in the Aire built by the Cavaliers: and the shaddow of a very glorious Church founded I know not where, and we may fi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d it I know not when.</p>
+            <lg>
+               <l>Some curious soule may question whence I came</l>
+               <l>what my condition is, or what my name,</l>
+               <l>but I will tell you true what not I am.</l>
+            </lg>
+            <p>I am not that wise Woeman, that beat out <hi>Abi<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>l<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cks</hi> brain<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> nor <hi>Debara</hi> amother in <hi>Israell,</hi> but <hi>Cassandra</hi> a Daughter in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> that would faine beat good counsell into your braines that have worne out your wits like M<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll-stones grinding against one a<g ref="char:EOLhyphen"/>nother to rub out a new Religion, which we nor oue Fathers ne<g ref="char:EOLhyphen"/>ver knew nor heard of.</p>
+            <lg>
+               <l>Illuminating love beyond my merit,</l>
+               <l>hath fild my soule with a divining spirit,</l>
+               <l>which bids me tell the Synod they have sit</l>
+               <l>to find the truth, till they have lost their wit.</l>
+            </lg>
+            <p>They will hammer so long upon the Anvill of their owne brain, till the sparkles flie into their eyes where they may consume by the same light which themselves have kindled: <hi>England</hi> hath beene plunged in an unsivill course of ivill Warres so long, for the Lawes of the Land, the priviledge of Parliament, and liberty of the Subject, till the Land hath no Law, the Parliament no priviledge, neither hath the Subject any liberty at all, so much as to serve God publickly or yeld obedience to the King, although we have Christ example to pay him tribute.</p>
+            <p>But our reverend Synod hath learnedly consulted to reforme the words of our Saviour, the wayes of the Apostles and the works of ancient Fathers. Abolishing all old seremonies with a new di<g ref="char:EOLhyphen"/>rectory, to bring us to Heaven a nearer way then the protistant Church could ever have imagined.</p>
+            <p>Their wisdomes have promised very much, and performed as little, like that labouring mountaine <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brought forth a mou<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the great amazement of the beholders whose lingring patience
+<pb facs="tcp:116489:2"/> hath been tired with fruitlesse expectation, these wise reformer have been sircumspect in tithing min<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and comming, but let sl<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> things of weightier matter, they have been soveer to punish Roc<g ref="char:EOLhyphen"/>hets, Surplis, Copes, and Miter, and pluck downe Crosses, Pictures, Organs, Altars, with a gallant new brome to sweep the ragges of <hi>Rome</hi> out of the church, till at length they will sweep the church out of large windowes, where some of our valiant Souldery have made long breaches, invading the painted <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lasse as desperatly as ever <hi>Donquickeshot</hi> incountred with the Wind-mills.</p>
+            <p>Twas an act indeed of zeale and valour to fight with Tombes, deface Monuments, and blot out the Commandements, because say They, they are no Rules to walk by, for the wicked have nothing to do to take Gods Law in their mouthes therefore they would not have it before their eyes, this house of Prayer hath beene tur<g ref="char:EOLhyphen"/>ned into a Den of theefes, witnesse their often mustring and quar<g ref="char:EOLhyphen"/>tering in severall Churches of this Kingdome, where some on the Lords day sat clouting their shooes, and patching their Coates, prating and making a noyse whilst the Minister was delivering the word of God in the Pulpit, their sacreligious hands have robd and plundered those consecrated Garments wherewith the Priest ac<g ref="char:EOLhyphen"/>cording to the word should be adorned with desency and honour but they whose power and authority have imployed them to this unwarantable act may be warned by the <hi>Eagle</hi> in the fable, who, filching a peece of flesh from the Altar brought with a cole where<g ref="char:EOLhyphen"/>with she set her Nest on fire, so these ill gotten goods will frot and wast like a canker till it consume all that partaines of right to the detainers thereof by wrongfullnesse and might, How many ho<g ref="char:EOLhyphen"/>nest men and Orthodox Devines for discharging the duty of a good conscience to God and the King, have been persecuted, plun<g ref="char:EOLhyphen"/>dered, sequestred, and imprisoned by them that would have none Lorded over their Brethren, but would levell themselves with the Lords antointed, it is the lot of Gods people to suffer tribulation, <hi>Iesabell</hi> persecuted the Prophets: <hi>Ahab</hi> plundred <hi>Naboths</hi> Vi<g ref="char:EOLhyphen"/>neard, <hi>Daniell</hi> was cast into the Lyons Den, because he did not forsake his old common prayer for a new Directory, composed by <hi>Darious</hi> and his Nobles.</p>
+            <p>It is a sad thing when a tender conscience shall be compeld to make shipwrack of a good faith for Cowardly feare, or base pre<g ref="char:EOLhyphen"/>ferment which is worse, for <hi>Salmanders</hi> which love to live in the fire of contention here who will without repentance live in the
+<pb facs="tcp:116489:3"/> fire unquentionable hereafter they bind heavy burdens with the <hi>Pha<g ref="char:EOLunhyphen"/>risee</hi> w<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> they will not touch with one of their fingers, they tye us to a government of <hi>Presbytery,</hi> but let loose the ratignes to licentious liberty, as for me I have binm sled a 6 years progres to find a way to paradice, but have bin m sled with so many <hi>Ignus sa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uus</hi> by the way that my faitth was tired til at last I fixt upon the old opinion of <hi>Pi<g ref="char:EOLhyphen"/>thagoras,</hi> and beleeve the Transmigration of the soule from whence I am ass<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red the Spirit of the <hi>Trojan Princes Cassandra</hi> is infufed into me, Whereby I am inspired to prophesie, And sith I am sent, why should I not shew my selfe, yes, that I may do and say no<g ref="char:EOLhyphen"/>thing, for, Maids should be seen and not heard, neither is it safe to speak all knowe truth.</p>
+            <p>What then shall I run away and hide my selfe with <hi>Jonas;</hi> but if <hi>I</hi> should meet with a tempestious Storme at Sea, and be cast into the close prison of a Whales belly, <hi>I</hi> were better indure the storm of a Grand Committee, and be cast into some earthly prison by their favourable appointment. Therefore <hi>I</hi> will stay and deliver my Message.</p>
+            <p>As <hi>Cassandra</hi> sent her cryes Through the Streets of <hi>Troy</hi> so must <hi>I</hi> through the streets of <hi>London,</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="poem">
+                        <p>
+                           <hi>She was a frantick Damsel So am I Or else could have no power to prophesie.</hi>
+                        </p>
+                        <p>
+                           <hi>She was the Daughter of an undone Father and Mother,</hi>
+                        </p>
+                        <p>
+                           <hi>So is the Kings, And I am no other: Her Prophesies were true, so are mine, but not beleeved no more will mine, but yet her greeved soule did thus divine.</hi>
+                        </p>
+                        <q>
+                           <lg>
+                              <head>Cassandra's Prophesies,</head>
+                              <l>Cry Trojans cry a Hellen and a woe</l>
+                              <l>Cry Cry <hi>Troy</hi> burnes, or else let <hi>Hellen</hi> go.</l>
+                           </lg>
+                        </q>
+                        <l>These were her words with whom I Sympathize</l>
+                        <l>which makes me through the City send these Cryes.</l>
+                        <l>Cry <hi>London</hi>
+                           <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ry, a fatall Parliament,</l>
+                        <l>dissolve it quickly or you will repent.</l>
+                        <l>Cry <hi>England</hi> Cry, a <hi>Fairfax</hi> and a King,</l>
+                        <l>Advance him to hi<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Throne, or Heaven will fling</l>
+                        <l>more plagues on you then the <hi>Aegiptians</hi> were</l>
+                        <l>whilst you like <hi>Pharoh</hi> will no threatning feare.</l>
+                        <l>Cry <hi>Ireland</hi> Cry plung'd in a Sea of woe.</l>
+                        <l>C<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y for revenge on them that use the s<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </l>
+                        <l>Thou mightst have bin releeved but w<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rt neglected</l>
+                        <l>cry till the Authors plots shall be detected</l>
+                        <l>Cry against them that caus'd thy discontent</l>
+                        <pb facs="tcp:116489:3"/>
+                        <l>Cry against <hi>London</hi> and the <hi>Parliament,</hi>
+                        </l>
+                        <l>That bought and sold their Lands and made them t<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y</l>
+                        <l>such desperate meanes with so much cruelty</l>
+                        <l>Cry <hi>Scotland</hi> Cry that ere your Blew Caps came</l>
+                        <l>to Order us remunerate the same,</l>
+                        <l>Cry <hi>
+                              <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ocky's</hi> Cry for selling of your King,</l>
+                        <l>There is a restoration day will bring</l>
+                        <l>you to account. The Parliament is free</l>
+                        <l>And will reward you for your Loyalty</l>
+                        <l>If you will come your Bretheren to aid</l>
+                        <l>in their distresse you shall be bravely paid</l>
+                        <l>Tis fear'd some will besiege the Directory</l>
+                        <l>come and releive it twill be for your glory</l>
+                        <l>To rescue the Meneran of your braines</l>
+                        <l>which you have prepogated with such paines</l>
+                        <l>Cry <hi>England cr<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </hi> for driving of your Queen</l>
+                        <l>to sad exile the like hath not bin seen</l>
+                        <l>Cursed be they that parted man and wife</l>
+                        <l>unite them speedily compose the strife</l>
+                        <l>For till the King, Queene Princes all appeare</l>
+                        <l>like constellations fixed in their sphere</l>
+                        <l>Shall never Father, Sonne, Wife, Daughter, Mother</l>
+                        <l>in <hi>England</hi> find true joy in one another</l>
+                        <l>For they that drove the King from of his throne</l>
+                        <l>shall shorttly have no dwelling of their owne</l>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Some of those that forced the Queen to go from her Husband shall run from their owne wives; They that compeld the Princely heire of England to leave his father in distresse, shal leave their Children in distraction Confusion flyes throughout all England in strange disguize, Old Jealousies and feares shall newly fall together by the eares but how long shall we hault between two opinions if <hi>Charles</hi> be King let us obey him if the Parliament he kings let- us feare them. I know there will be cause when the wicked beare rule the people sigh,<note place="margin">Pro. 29.2.</note> but when the righteous are in Authority the people rejoyce.</p>
+            <p>Servants may ride when princes go on foot. I have heard of a Tyrant which tooke four Kings captive compelling them to draw his Charriot, One of them looking back smiled,<note place="margin">Eccles. 10.7.</note> which the Tyrant perceiving demanded the cause to whom the dejected King reply<g ref="char:EOLhyphen"/>ed it joyes me to see those spokes of the wheeles which were low<g ref="char:EOLhyphen"/>est
+<pb facs="tcp:116489:4"/> advanced to the hi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hest and those which are above to re<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> low for which observation he was immediatly released, and tha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we see there is no stability infortune but time and chance haps a<g ref="char:EOLhyphen"/>like to all <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> there is not storme but hath his calme: no ebb, but hath his Flood, No winter but hath its Sommer, no Autumn but hath its Spring, no night but hath its day.</p>
+            <p>Time that makes man miserable, make the same man happy time that Saints hypocrisie with a seeming face of truth will one day pluck of that Vizard and discover their wickednesse to the World who under a pretence of long prayers, devour Widdowes hou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, professing to do right with Judgement, but have executed Iudge<g ref="char:EOLhyphen"/>ment against all right or reason, Pretending peace like <hi>Ioab</hi> to <hi>A<g ref="char:EOLhyphen"/>masa,</hi> but working Treasons Time, will strip the sheeps skins o<g ref="char:EOLhyphen"/>ver their Wolvish eares who instead of feeding the flock waite an opportunity to destroy them, Time that draw out scandalous Ca<g ref="char:EOLhyphen"/>valiers Ministers to put in scandalous Presbyter-Ministers wil now supply their places with gifted Independants that were never Mini<g ref="char:EOLhyphen"/>sters, Time payes every one in his owne Coine, and now they may say with <hi>Adonibezeck</hi> as I have done unto others, so God hath don unto me,</p>
+            <p>The devill made our Saviours ne<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ssity his opportunity by temp<g ref="char:EOLhyphen"/>ting him with promise of a Kingdome which was not his to give, the Parlia<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t uses the like temptation to his Majesty. It is said of Satan he forc't him not, he toucht him not, he only said cast thy self downe I<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be said of them they force him and have strove to touch hi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if he yeeld to their unreasonable propositions he will cast himself<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> downe to his utter ruine.</p>
+            <lg>
+               <l>A true prediction of his Majesties coming to <hi>London,</hi>
+               </l>
+               <l>
+                  <hi>Char<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es</hi> shall not injoy his crowne</l>
+               <l>till <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th houses vot<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him downe,</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> when th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y have done their worst</l>
+               <l>He shall be gr<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>r then at first</l>
+               <l>time th<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> drov<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him from his throne</l>
+               <l>Will restor<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him to his one</l>
+               <l>when these clouds are overblowne</l>
+            </lg>
+            <p>His Majesty, was out-witted when he was pers<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aded to leave <hi>Hampton Court</hi> for <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Adjut<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rs but time will put a Trick upon their wits that so cunningly <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>trayed him.</p>
+            <p>I am confirmed by Inspiration of the spirit to second Mr. <hi>Salt<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>shes</hi> predictions which i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the Lord is departed from the Ar<g ref="char:EOLunhyphen"/>my
+<pb facs="tcp:116489:4"/> yet a lying spirit shall deceive them, as it did the King of <hi>Isra<g ref="char:EOLhyphen"/>ell</hi> when he was perswaded to go up and prosper, so shall they go up against the <hi>Scots</hi> whom the Lord hath stirred up to destroy their ungodly designes. And though there be little good to be ex<g ref="char:EOLhyphen"/>pected from those who have bin authors of so much misery yet he that brings light out of darknesse, Good out of evill, will make them instruments of the true protestant deliverance who having been long obscured, shall like the cleere beames of the Sun, breake through these horrid mil<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of error, in spight of opposition being established w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th unity, peace and concord.</p>
+            <p>The King, Queen, and Prince shall enjoy their former rights and titles, but not without much trouble, because the iniquity of the <hi>Amalecks is not yet full.</hi>
+            </p>
+            <p>There shall be much bloud spilt, and that not of the meanest part of <hi>Merlins</hi> prophesie shall be found about the Marquesse of <hi>Wor<g ref="char:EOLhyphen"/>cesters</hi> house in <hi>Wales</hi> which prediction fore-sheweth very high and hidden things, not easily understood, Two shall contest whilst the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hird carrieth the prise, the ban<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shed shall be recalled it shall go ill with <hi>Ireland,</hi> not wel with <hi>England,</hi> the <hi>Spaniard</hi> hath a de<g ref="char:EOLhyphen"/>signe against that, the <hi>French</hi> against this, and the Pope upon both here shall be a great Mortality, many shall dye of the Callenture, others shall dy distracted, laying violent hands on themselves, the pestilence shall increase, a famine shall follow not only of br<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, nor of flesh, but of the word, the Jewish religion shall abound very much in <hi>London,</hi> by reason of a false prophet which shall delude them. the Sha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers and quakers shall declare strange <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>velation, but <hi>if an <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll from heaven should teach any o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her doctrine then what you have learn'd ye ought not to believe them,</hi>
+               <note place="margin">Isa 30.2<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.2<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</note>
+               <hi>For though the Lord give you b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead of adversity and water of afliction, yet shall not thy <gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>hers be re<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ved in to a corner any more but thine eyes shall see thy re<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ers. For thou shalt heere a voice beh<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d thee saying this is the way walk in it for till the true protestant Church be established not one in the three divided King<g ref="char:EOLhyphen"/>domes shall be truly <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>appy.</hi>
+            </p>
+            <p>
+               <hi>Time that produced an Order against Scandalous pamphlets will take a<g ref="char:EOLhyphen"/>ny the occasion of Scandalous actions when the wood crea<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e go<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> out.</hi>
+            </p>
+            <lg>
+               <l>Reforme in time your scandalous abuses</l>
+               <l>And time shall reconsile our bitter Muses</l>
+               <l>Jn time do justice to his Majesty</l>
+               <l>O House of Parliament why will you die?</l>
+               <l>God and the King will a free pardon give</l>
+               <l>Except their clemency, break up and live</l>
+               <l>Jn both their favors be advised by me</l>
+               <pb facs="tcp:116489:5"/>
+               <l>VVh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in time conclud my Prophecyes</l>
+               <l>VVith Swan like long if any s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ek to have</l>
+               <l>Accomp<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> me, their find me in my Grave</l>
+               <l>In tombe without inscult or Ellegie</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that my selfe fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s my destinie</l>
+               <l>This Epitaph with my owne pencill writ</l>
+               <l>Here lies a peece of strange santastique wit.</l>
+            </lg>
+            <div type="poem">
+               <lg>
+                  <l>YOu City roundheaded crew</l>
+                  <l>Be jolly and prick up your eares</l>
+                  <l>Shake hands an<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bid a dew</l>
+                  <l>To the turbulent Cavaliers</l>
+                  <l>Now they are twentie mile hench</l>
+                  <l>You need not feare your lives,</l>
+                  <l>Nor can they give offence</l>
+                  <l>To your affectionat Wiv<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</l>
+               </lg>
+               <lg>
+                  <l>You saw their gallantry</l>
+                  <l>Did merit all respect</l>
+                  <l>Whilst your fond jelousie</l>
+                  <l>Produced your own neglect</l>
+                  <l>Your worthlesse sights appeare</l>
+                  <l>Like Candles in the Son</l>
+                  <l>Whilst they lived shining here</l>
+                  <l>You were esteemed by none.</l>
+               </lg>
+               <lg>
+                  <l>For which your wits devise</l>
+                  <l>By vertue of a Plot</l>
+                  <l>On them to tyranize</l>
+                  <l>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ugh no <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e knowes for what</l>
+                  <l>But s<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re it must be thought</l>
+                  <l>As credable a thing</l>
+                  <l>As that of la<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as wrought</l>
+                  <l>To murder <hi>Charles</hi> our King.</l>
+               </lg>
+               <lg>
+                  <l>Both which were Plots indeed</l>
+                  <l>But acted on your side</l>
+                  <l>That one may run and read</l>
+                  <l>Your malice rage and pride</l>
+                  <l>As lately hath been show<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>When we on Christmas day</l>
+                  <l>Were left in Church alone</l>
+                  <l>O<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> teachers cal'd away.</l>
+               </lg>
+               <lg>
+                  <l>To answer their offence</l>
+                  <l>For hallowing the times</l>
+                  <l>Which Z<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lo<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> insolence</l>
+                  <l>Prophane with horrid crimes</l>
+                  <l>But these are winged Spurs</l>
+                  <l>To quicken our devotion</l>
+                  <l>Whilst <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> like invious <hi>Cho<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us</hi>
+                  </l>
+                  <l>Braul at bright <hi>Cyniheus</hi> motion</l>
+               </lg>
+               <lg>
+                  <l>How did my good Lord Major</l>
+                  <l>Like <hi>Salum</hi> urge his Asse</l>
+                  <l>To spoile a Cundet where</l>
+                  <l>Much superstition was</l>
+                  <l>But the devinor beast</l>
+                  <l>Religiously abhored</l>
+                  <l>His sawcy chops to feast</l>
+                  <l>Till forced by his Lord.</l>
+               </lg>
+               <lg>
+                  <l>A bit of Ivy green</l>
+                  <l>And Baize from thence he snapt</l>
+                  <l>But then oh, had you seen</l>
+                  <l>How strangely he was rapet</l>
+                  <l>With more then common strength</l>
+                  <l>Run prancing through the street</l>
+                  <l>Vntill his Lord at length</l>
+                  <l>Had almost kist his feet.</l>
+               </lg>
+               <lg>
+                  <l>A Boy without remorce</l>
+                  <l>His taile with Holly pricks</l>
+                  <l>That banks his dancing horse</l>
+                  <l>Nare shewed such lofty tricks</l>
+                  <l>Thus was his Lordship made</l>
+                  <l>In spight of his in<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ent</l>
+                  <l>A Gam-ba<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll by his Ga<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>The Boyes <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to agment.</l>
+               </lg>
+               <lg>
+                  <l>Which close about him throng</l>
+                  <l>He being or a pelt</l>
+                  <l>The Horse still kick't and flung</l>
+                  <l>And blowes amongst them dealt</l>
+                  <l>Whilst they into th<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ayre</l>
+                  <l>Threw up th ir Caps with joy</l>
+                  <l>To see my good Lord Major</l>
+                  <l>Begin the Christmas play.</l>
+               </lg>
+            </div>
+            <trailer>
+               <hi>FINI<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
